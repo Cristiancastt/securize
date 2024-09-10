@@ -1,7 +1,4 @@
 # Securize
-
-![Securize Logo](https://via.placeholder.com/150x150.png?text=Securize)
-
 [![npm version](https://badge.fury.io/js/securize.svg)](https://badge.fury.io/js/securize)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
